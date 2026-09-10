@@ -15,8 +15,8 @@ A hands-on cybersecurity workshop module covering host discovery, port/service d
 Run these exercises only in systems and networks that you own or are explicitly authorized to test. Use an isolated Host-Only/Internal Network for workshop demonstrations whenever possible.
 
 Example lab:
-- Kali Linux: 192.168.56.104
-- Windows/Linux target: 192.168.56.105
-- Network: 192.168.56.0/24
+- Kali Linux: <IP_KALI>
+- Windows/Linux target: <IP_TARGET>
+- Network: <IP_KALI>/24
 
 The example addresses are placeholders; replace them with the addresses in your own lab.
